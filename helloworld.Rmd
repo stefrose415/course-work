@@ -2,7 +2,7 @@
 title: "HelloWorld"
 author: "S Rose"
 date: "12/19/2019"
-output: word_document
+output: pdf_document
 ---
 
 ## This is a markdown file
